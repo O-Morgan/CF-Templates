@@ -1,0 +1,6 @@
+
+Resources:
+  MyS3Bucket:
+    Type: AWS::S3::Bucket
+    Properties:
+      BucketName: "owen-morgan-123456"
